@@ -1,0 +1,6 @@
+{
+  "locations" : [
+    {"place": "place1","movies": ["movie1","movie2","movie3"]},
+    {"place": "place2","movies": ["movie1","movie3"]}
+  ]
+}
