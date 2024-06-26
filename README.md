@@ -1,5 +1,5 @@
 # Cinema Booking System
-A console line Java application that enables users to search and book movies. User can also manage their movie bookings. User login's credential will be encrypted in the database. Moreover, there is a authority management sub-system for managers or staffs to update movie information, and also manage the staff accounts.
+A command-line Java application that enables users to search and book movies. User can also manage their movie bookings. The user login credentials will be encrypted in the database. Moreover, there is an authority management sub-system for managers or staff to update movie information, and also manage the staff accounts.
 
 ## How to run
 1. `gradle build`
